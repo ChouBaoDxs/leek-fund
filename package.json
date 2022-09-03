@@ -772,6 +772,7 @@
     "amplitude": "^5.1.4",
     "axios": "^0.19.2",
     "cheerio": "1.0.0-rc.6",
+    "entities": "2.2.0",
     "compare-versions": "^3.6.0",
     "iconv-lite": "^0.6.2",
     "lodash.clonedeep": "^4.5.0",
